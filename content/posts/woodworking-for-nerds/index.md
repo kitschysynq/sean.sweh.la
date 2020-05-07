@@ -13,7 +13,7 @@ showFullContent = false
 A friend recently asked if I was interested in "a woodworking 'problem' involving math." I
 couldn't help but take that kind of bait, and he continued with a picture:
 
-{{< image src="crossmember.jpg" alt="Photo of the end of a wooden table" position="center" style="border-radius: 8px;" >}}
+{{< figure src="crossmember.jpg" alt="Photo of the end of a wooden table" position="center" style="border-radius: 8px;" caption="Photo from Jason King Lee via Facebook" >}}
 
 and a simple question: How do you find the cut angles and length of these cross members?
 
