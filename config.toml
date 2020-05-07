@@ -1,4 +1,4 @@
-baseURL = "http://sean.sweh.la/"
+baseURL = "https://sean.sweh.la/"
 languageCode = "en-us"
 title = "Thor's Workshop"
 theme = "terminal"
