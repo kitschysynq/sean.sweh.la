@@ -1,0 +1,23 @@
+baseURL = "http://sean.sweh.la/"
+languageCode = "en-us"
+title = "Thor's Workshop"
+theme = "terminal"
+paginate = 5
+
+[params]
+  themeColor = "red"
+  showMenuItems = 2
+  showLanguageSelector = false
+  fullWidthTheme = false
+  centerTheme = true
+
+[params.twitter]
+  creator = "kitschysynq"
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "Thor's Workshop"
+    [languages.en.params.logo]
+      logoText = "Thor's Workshop"
+
