@@ -1,5 +1,5 @@
 ---
-title: "Embedded"
+title: "Embedded Development"
 date: 2020-05-24T13:48:47-04:00
 description: All things related to embedded development. Microcontrollers, firmware, libraries, etc.
 draft: false
