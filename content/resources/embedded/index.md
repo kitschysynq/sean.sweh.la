@@ -38,3 +38,11 @@ This repository contains a large selection of user-submitted templates
 for various devices. Each device has an entry which makes it easy to find
 a device for your region, and has links to where you can conveniently buy
 the modules.
+
+### Tuya-convert
+
+[github](https://github.com/ct-Open-Source/tuya-convert)
+
+This project provides a way to flash a custom firmware onto a wide array of
+devices which use a turn-key smarthome solution provided by a company called
+Tuya. Their README is pretty thorough.
