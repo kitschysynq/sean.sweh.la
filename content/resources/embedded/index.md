@@ -46,3 +46,5 @@ the modules.
 This project provides a way to flash a custom firmware onto a wide array of
 devices which use a turn-key smarthome solution provided by a company called
 Tuya. Their README is pretty thorough.
+
+Hi, folks!
